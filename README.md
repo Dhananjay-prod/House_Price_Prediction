@@ -37,4 +37,4 @@ This project is licensed under the MIT license. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-This project is made possible by the contributions of the open-source community and the powerful libraries it provides, including NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, and XGBoost. I extend my gratitude to the developers and maintainers of these libraries for their valuable work. In addition, the mentor Siddhardan, visit his channel here : https://www.youtube.com/@Siddhardhan
+This project is made possible by the contributions of the open-source community and the powerful libraries it provides, including NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, and XGBoost. I extend my gratitude to the developers and maintainers of these libraries for their valuable work.
